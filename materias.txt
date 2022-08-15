@@ -1,0 +1,38 @@
+s,Análisis 1,-1
+s,Álgebra,-1
+s,Fisica experimental 1,-1
+n,Física general 1,-1
+n,Física general 2,0;1;2;3
+n,Análisis 2,0;1
+n,Química 1,0;1
+n,Física experimental 2,0;1;2;3
+n,Física general 3,4;7
+n,Física experimental 3,4;7
+n,Biología,6
+n,Química 2,6
+n,Electromagnetismo,5;7;8
+n,Computación,5;8
+n,Química 3,10;11
+n,Mate especiales,5
+n,Física cuántica,12;15
+n,Probabilidad y Estadística,13
+n,Electrónica,8;15
+n,Anatomia e Histología,10
+n,Física estadística,12;15;17
+n,Análisis de señales,15;17
+n,El núcleo y sus radiaciones,16
+n,Fisiología,19
+n,Biofisica,14;20;23
+n,Física de la salud,22
+n,Radiobiologia y Dosimetria,22;23
+n,Física de la radioterapia,22
+n,Lab en fisica de la radiacion,22
+n,Tecnicas de radioanalisis,14;22
+n,Fisica de la medicina nuclear,25;26
+n,Fundamentos de láser,16;20
+n,Fisica de las img medicas,21;23
+n,Lab(a)medic nuclear,25;26
+n,Lab(b)img medicas,21;23
+n,Optativa 1,24;25;26;27;28;29;30;31;32;33;34
+n,Optativa 2,24;25;26;27;28;29;30;31;32;33;34
+n,Trabajo de diploma,24;25;26;27;28;29;30;31;32;33;34
