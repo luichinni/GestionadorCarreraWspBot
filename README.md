@@ -2,6 +2,7 @@
 Bot de whatsapp para tener seguimiento de la carrera
 
 Paso 1: instalar NodeJS y NPM
+
     Windows:    https://phoenixnap.com/kb/install-node-js-npm-on-windows
     Linux:      https://www.geeksforgeeks.org/installation-of-node-js-on-linux/
 
