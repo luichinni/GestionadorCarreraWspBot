@@ -1,5 +1,5 @@
 # seguidorDeCarreraWSPBOT
-Bot de whatsapp para tener seguimiento de la carrera
+Bot de whatsapp para tener seguimiento de la carrera, solo responde al propio usuario que carga su sesion
 
 Paso 1: instalar NodeJS y NPM
 
