@@ -8,8 +8,12 @@ Paso 1: instalar NodeJS y NPM
     Linux:      https://www.geeksforgeeks.org/installation-of-node-js-on-linux/
 
 Paso 2: con NPM en la consola usar los siguientes comandos
+
+    npm install puppeteer
     npm i whatsapp-web.js
     npm i qrcode-terminal
+
+Nota: en caso de necesitar otra cosa, los mensajes de error muestran lo necesario que falta
 
 Paso 3: abrir una consola en la carpeta del proyecto y usar el siguiente comando
     npm start
