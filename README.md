@@ -14,6 +14,9 @@ Paso 2: con NPM en la consola usar los siguientes comandos
     npm i qrcode-terminal
 
 Nota: en caso de necesitar otra cosa, los mensajes de error muestran lo necesario que falta
+Nota2: quizas sea necesario/conveniente hacer un downgrade del npm
+
+    npm install -g npm@6.14.18
 
 Paso 3: abrir una consola en la carpeta del proyecto y usar el siguiente comando
     npm start
